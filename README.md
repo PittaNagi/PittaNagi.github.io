@@ -1,2 +1,2 @@
 # PittaNagi.github.io
-Teszt page
+Msodik teszt lapa GitHub-on
